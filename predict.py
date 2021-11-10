@@ -24,6 +24,11 @@ import json
 import argparse
 
 
+#Title: <title of program/source code>
+#Author: Kusainov
+#Date: 11 Nov 2018
+#Availability: https://github.com/Kusainov/udacity-image-classification/blob/master/predict.py
+
 # Create arguments that will be used on the script
 pars = argparse.ArgumentParser(description = "Parser for Prediction script")
 

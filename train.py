@@ -1,7 +1,5 @@
 #!/usr/bin/env python3
 #
-#Reference (1) https://github.com/felixrlopezm/Udacity-project-Image-classifier
-#          (2) https://github.com/Kusainov/udacity-image-classification
 #
 # TODO 0: Add your information below for Programmer & Date Created.                                                                             
 #
@@ -32,6 +30,13 @@ from collections import OrderedDict
 #from PIL import Image
 import argparse
 import json
+
+
+#Title: <title of program/source code>
+#Author: Kusainov
+#Date: 11 Nov 2018
+#Availability: https://github.com/Kusainov/udacity-image-classification/blob/master/train.py
+
 
 # creating arguments that will be used by the script
 pars = argparse.ArgumentParser(description = 'Used to prepared the script')
