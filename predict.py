@@ -1,7 +1,5 @@
 #!/usr/bin/env python3
 #
-#Reference (1) https://github.com/felixrlopezm/Udacity-project-Image-classifier
-#          (2) https://github.com/Kusainov/udacity-image-classification
 #
 # TODO 0: Add your information below for Programmer & Date Created.                                                                             
 #
